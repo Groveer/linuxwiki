@@ -6,6 +6,5 @@ wiki 这里是linux爱好者维护的wiki，如果你有能力，有时间，请
 > &emsp;+--uos --- uos模块</br>
 > &emsp;+--ubuntu --- ubuntu模块</br>
 > +--arch --- arch模块</br>
-> +--fedora --- fedroa模块
-> &emsp;+--centos --- centos模块
-> &emsp;+--redhat --- redhat模块
+> +--fedora --- fedroa模块</br>
+> &emsp;+--centos --- centos模块</br>
